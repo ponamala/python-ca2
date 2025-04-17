@@ -9,7 +9,7 @@ Format: CSV (Comma-Separated Values)
 
 Records: 3,094 rows
 
-Key Fields:
+Key Fields: 
 
 Period: Rolling time intervals (e.g., 2000–02)
 
